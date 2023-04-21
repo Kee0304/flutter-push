@@ -40,6 +40,7 @@ dependencies:
   logger:
   firebase_messaging:
   flutter_local_notifications:
+  provider:
 
 dev_dependencies:
   flutter_test:

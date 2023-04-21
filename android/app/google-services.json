@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "489584211934",
+    "project_id": "flutter-push-test-7d875",
+    "storage_bucket": "flutter-push-test-7d875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489584211934:android:be9641a420fb39ac2d0f4f",
+        "android_client_info": {
+          "package_name": "com.example.locatortest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489584211934-ltmjhgtkr9pvdc52bt0dib7adumlejtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbrHX3Rf04NoLfAJ0PY2bCWLOpGeL5H38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489584211934-ltmjhgtkr9pvdc52bt0dib7adumlejtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
